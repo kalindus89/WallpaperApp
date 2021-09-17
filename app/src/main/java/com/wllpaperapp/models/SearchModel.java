@@ -4,7 +4,7 @@ import java.util.List;
 
 public class SearchModel {
 
-    private List<ImageModel> photos;
+        private List<ImageModel> photos;
 
     public SearchModel(List<ImageModel> photos) {
         this.photos = photos;
